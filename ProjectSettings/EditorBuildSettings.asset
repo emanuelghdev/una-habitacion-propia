@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EscenaMundo.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Serenidad/MenuSerenidad.unity
+    guid: ca930d7a3c055cd449c98f5348e731bc
+  - enabled: 1
+    path: Assets/Scenes/Serenidad/SerenidadEj0.unity
+    guid: 603a0776d2bc5e3488e2eeaafe8ad531
+  - enabled: 1
+    path: Assets/Scenes/Serenidad/SerenidadEj1.unity
+    guid: f717c3d4b8e8e794cac731e64ee4a355
+  - enabled: 1
+    path: Assets/Scenes/Serenidad/SerenidadEj2.unity
+    guid: a4b70390af682664b9ebc556da2a20ce
+  - enabled: 1
+    path: Assets/Scenes/Serenidad/SerenidadEj3.unity
+    guid: e837caf77ec353f449b2c32f18ab4d18
+  - enabled: 1
+    path: Assets/Scenes/Serenidad/SerenidadEj4.unity
+    guid: 22f9507674cf8de489ef6cd7f1046693
+  - enabled: 1
+    path: Assets/Scenes/Serenidad/SerenidadEj5.unity
+    guid: c885532a6ebdc204fa3ee0be9bc35f5b
+  - enabled: 1
+    path: Assets/Scenes/Serenidad/SerenidadEj6.unity
+    guid: 8abc4b5ba0246db4a86e710db135355f
+  - enabled: 1
+    path: Assets/Scenes/Asertividad/MenuAsertividad.unity
+    guid: 6aef3b1ed34aeaf48bef2dabbf6941e1
+  - enabled: 1
+    path: Assets/Scenes/Asertividad/EscribirDiario.unity
+    guid: 63287a11f1b351a4aba7354e93596119
+  - enabled: 1
+    path: Assets/Scenes/Asertividad/LeerDiario.unity
+    guid: 8cffee39701788642be7a5facc752fb1
+  - enabled: 1
+    path: Assets/Scenes/Resiliencia/MenuResiliencia.unity
+    guid: db222d2c0ec48c24da7ef3aff8717f81
+  - enabled: 1
+    path: Assets/Scenes/Resiliencia/ResilienciaEj0.unity
+    guid: e758aa1406c247d4f8645e728b346c2f
+  - enabled: 1
+    path: Assets/Scenes/Resiliencia/ResilienciaEj1.unity
+    guid: c132545152c60454f998b7a0425ecb4b
+  - enabled: 1
+    path: Assets/Scenes/Resiliencia/ResilienciaEj2.unity
+    guid: 95dffe215f9a3304190297e5a3330225
+  - enabled: 1
+    path: Assets/Scenes/Resiliencia/ResilienciaEj3.unity
+    guid: 6238cb45194a2714eb423dc6f0855ec3
+  - enabled: 1
+    path: Assets/Scenes/Otros/MenuTienda.unity
+    guid: 0c068aaf312718548aac7f2c2a48bf7c
+  m_configObjects: {}
