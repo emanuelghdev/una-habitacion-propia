@@ -34,6 +34,7 @@
 
 # Visual Studio cache directory
 .vs/
+.vsconfig
 
 # Gradle cache directory
 .gradle/
@@ -112,3 +113,6 @@ Desktop.ini
 
 # Collab ignore
 .collabignore
+
+# Unity Version Control
+.plastic
