@@ -1,4 +1,0 @@
-repository "Una Habitación Propia@Emanuel158@cloud"
-  path "/"
-    br "/main"
-    co "/main"
