@@ -1,0 +1,1724 @@
+fileFormatVersion: 2
+guid: db43a8b55252fad448bdf43da4e04798
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 458
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7d67c3015f239468d4cb577e51c38d
+      internalID: -769959061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 458
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee04ba15a065c014988549023fdcd472
+      internalID: -1272494894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 458
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746355cffa3095949910df8151589931
+      internalID: 139976972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 458
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e4e1a070f694e43939e8813de63344
+      internalID: -539568896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 458
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03457cd7e60e304b875b60b3370a03c
+      internalID: -2043577961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 458
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dd3cd7e072b7a4086a716249ec1e10
+      internalID: -891683930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_6
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 458
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70447e26c7c1964db7d5fc3a2344c6c
+      internalID: 320283132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_7
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 458
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abadaf2bd90c08458ee32fe5208006b
+      internalID: -1894039637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 426
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eceda7bad6ba38479541c93652d4553
+      internalID: -1247114140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 426
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0c3f8793cbd9d4e9a3984add98b5e9
+      internalID: -2092474930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 426
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15339bb739924fb4091cf7ba80974114
+      internalID: 22062310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_11
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 426
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd46172e3259c2748aac97c3b0ad8eed
+      internalID: 886388281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_12
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 426
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b6bc8befcd1d946b5f2baa73e9bb2e
+      internalID: 79166585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_13
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 426
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d29bfd14ddb054fa1f01c60f120fed
+      internalID: 1337035339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_14
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 424
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e0bb17ffb242c408b68550467c509c
+      internalID: -238744612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_15
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 426
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e546eda4a062aa439263e72508a9a13
+      internalID: -1879549631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 304
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69c90573ad6173488dd8de0e8a1e7a5
+      internalID: 578597548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 304
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece4e4e6a32e8cf42bd33db90ea001ff
+      internalID: -968529546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 336
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f3d030df975fd42922686a572d9c52
+      internalID: -1868746495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 336
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c44f9dee3739bf4abde720c69910776
+      internalID: -1345218167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 304
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f3569dda7fef248874479be45fd3ec
+      internalID: 711840150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 304
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea70f45d5705654eaafd34d52df4221
+      internalID: 551349389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_22
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 336
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d008d84a1b6284a8c981728bc37a4b
+      internalID: -1861383962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_23
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 336
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4ea438ca75e0d4ebf299b0bafad2ff
+      internalID: 1430251928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_24
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 304
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af50627cabe7f4e428258ebec1d19825
+      internalID: -459785218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_25
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 304
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76109375667db24a9750b00da438ad6
+      internalID: 2058834832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_26
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 336
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24431507c5067164dbf4fb9e7881ad0e
+      internalID: -1880271792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_27
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 336
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2985244894a47488a5d9a66c6d7fd3
+      internalID: -910200079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_28
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 304
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c014c70720955347a28784f57fadcdc
+      internalID: 1830487009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_29
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 304
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7df8cc30dcbbd409ebfbd8d7a9a69c
+      internalID: 1519257125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_30
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 336
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17112d26e1e64b942b83ab5be09c7133
+      internalID: -685298945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_31
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 336
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211edceb69b337549b6679dab0fc4e3c
+      internalID: 878327802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 232
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0abac8e5751da34eb486d00cc4c6b2f
+      internalID: -232097719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 232
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa70239fa6e2ceb4eae71177f42374ff
+      internalID: 1912517200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 232
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b8aa74029b23748b3a370c5c747cb3
+      internalID: -1083548493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 232
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e62755b82caaa42b5ba1f9bd60d08c
+      internalID: -1218336039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_36
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 232
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78af693d693e2c2478b9b0da97c94d44
+      internalID: 1224598767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_37
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 232
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfd523fe76dbc746aa6ee2cb981076b
+      internalID: 894899589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_38
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 232
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff8d6e5c4ac8a24eb91aa45efdebb03
+      internalID: -486344242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_39
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 232
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3158c6f90db35854b8ff6b573192d536
+      internalID: -1343197021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 200
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a52fe081fa49046afda5db058c586a
+      internalID: 475063781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 200
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965ee823344ec86488112a03e40f764d
+      internalID: 1430985808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 200
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e703d4a670ce5de4ea3957303c3d4bd3
+      internalID: 1597649828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 200
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d433e9667b7e6d749a314043ca1e13c0
+      internalID: -1135249137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_44
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 200
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6a6e9666c55ba4f81530af8353de8a
+      internalID: -818202887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_45
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 200
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3307848dfb890a947a447220d5044187
+      internalID: 853002174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_46
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 200
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df39e92bead40f499f07fa65bcc396a
+      internalID: 1597572612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_47
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 200
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06f7453cc07a7448aacb0ba608a0625
+      internalID: -296547116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_48
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d8295250e70ff438cfdcd0b6ee01c5
+      internalID: 776030026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2659b4f5444d64fa15b8ed44299365
+      internalID: -120188286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_50
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 112
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0084ac69119b36249bfa3c73261278a3
+      internalID: 1135376630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 112
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a96e589200700548934b4ffb9a96133
+      internalID: -1797402238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_52
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 80
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a73b3c1082f604f9db74e6c4440389
+      internalID: 2018719808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_53
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 80
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354878c35014d6849bd99cd1d93a7d45
+      internalID: -1822691830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_54
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 112
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e231d77274b16448ac4f8a6bd22285
+      internalID: 1793552325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_55
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 112
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3197b5102f0d746a48efcd5d957169
+      internalID: -1897161493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_56
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 80
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154cb138e30fb764b8dc013743f23641
+      internalID: -517323032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_57
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 80
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6ecfb5982414a4e8f6ada32ef526b0
+      internalID: -1753314901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_58
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 112
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6995957b279134384a5ca427b4e43b
+      internalID: 1185398153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_59
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 112
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc5b53f4ce66394f88e9350bfdf10de
+      internalID: 364247537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_60
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 80
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a98b4dbb6fcf248887cd1998918273
+      internalID: -440196512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_61
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 80
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc80e6d33f11de34cb8871ca2e1f5a0f
+      internalID: 330611966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_62
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 112
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bd9867fe492a742b550a03728227ad
+      internalID: 1965146524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_63
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 112
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804bcdebf24676b4fa36b2501c6e6a1d
+      internalID: -1061629211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_64
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 456
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec8b1eebecdfbf4d9491871280369e6
+      internalID: -627541104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473056a3e5864e34683c4bd1c8b45b21
+      internalID: 1151665384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_66
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d875d2c406ad548a89c064a15fa81b
+      internalID: -82927347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_67
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 456
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf7ee4ffe36d484aa3e30c1eb1b710f
+      internalID: -418646499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_68
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 456
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33124d4f2df3fd41b7947d282c06926
+      internalID: 1325660224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_69
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daefc55074c532f45b0f744b76982824
+      internalID: -2060686656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_70
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9186f4d101bd8418b63a2d77e27feb
+      internalID: -1273608929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay_menu_buttons_1_71
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 456
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900bedc977c98634fbc008b26bada11a
+      internalID: 1055519191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gameplay_menu_buttons_1_0: -769959061
+      gameplay_menu_buttons_1_1: -1272494894
+      gameplay_menu_buttons_1_10: 22062310
+      gameplay_menu_buttons_1_11: 886388281
+      gameplay_menu_buttons_1_12: 79166585
+      gameplay_menu_buttons_1_13: 1337035339
+      gameplay_menu_buttons_1_14: -238744612
+      gameplay_menu_buttons_1_15: -1879549631
+      gameplay_menu_buttons_1_16: 578597548
+      gameplay_menu_buttons_1_17: -968529546
+      gameplay_menu_buttons_1_18: -1868746495
+      gameplay_menu_buttons_1_19: -1345218167
+      gameplay_menu_buttons_1_2: 139976972
+      gameplay_menu_buttons_1_20: 711840150
+      gameplay_menu_buttons_1_21: 551349389
+      gameplay_menu_buttons_1_22: -1861383962
+      gameplay_menu_buttons_1_23: 1430251928
+      gameplay_menu_buttons_1_24: -459785218
+      gameplay_menu_buttons_1_25: 2058834832
+      gameplay_menu_buttons_1_26: -1880271792
+      gameplay_menu_buttons_1_27: -910200079
+      gameplay_menu_buttons_1_28: 1830487009
+      gameplay_menu_buttons_1_29: 1519257125
+      gameplay_menu_buttons_1_3: -539568896
+      gameplay_menu_buttons_1_30: -685298945
+      gameplay_menu_buttons_1_31: 878327802
+      gameplay_menu_buttons_1_32: -232097719
+      gameplay_menu_buttons_1_33: 1912517200
+      gameplay_menu_buttons_1_34: -1083548493
+      gameplay_menu_buttons_1_35: -1218336039
+      gameplay_menu_buttons_1_36: 1224598767
+      gameplay_menu_buttons_1_37: 894899589
+      gameplay_menu_buttons_1_38: -486344242
+      gameplay_menu_buttons_1_39: -1343197021
+      gameplay_menu_buttons_1_4: -2043577961
+      gameplay_menu_buttons_1_40: 475063781
+      gameplay_menu_buttons_1_41: 1430985808
+      gameplay_menu_buttons_1_42: 1597649828
+      gameplay_menu_buttons_1_43: -1135249137
+      gameplay_menu_buttons_1_44: -818202887
+      gameplay_menu_buttons_1_45: 853002174
+      gameplay_menu_buttons_1_46: 1597572612
+      gameplay_menu_buttons_1_47: -296547116
+      gameplay_menu_buttons_1_48: 776030026
+      gameplay_menu_buttons_1_49: -120188286
+      gameplay_menu_buttons_1_5: -891683930
+      gameplay_menu_buttons_1_50: 1135376630
+      gameplay_menu_buttons_1_51: -1797402238
+      gameplay_menu_buttons_1_52: 2018719808
+      gameplay_menu_buttons_1_53: -1822691830
+      gameplay_menu_buttons_1_54: 1793552325
+      gameplay_menu_buttons_1_55: -1897161493
+      gameplay_menu_buttons_1_56: -517323032
+      gameplay_menu_buttons_1_57: -1753314901
+      gameplay_menu_buttons_1_58: 1185398153
+      gameplay_menu_buttons_1_59: 364247537
+      gameplay_menu_buttons_1_6: 320283132
+      gameplay_menu_buttons_1_60: -440196512
+      gameplay_menu_buttons_1_61: 330611966
+      gameplay_menu_buttons_1_62: 1965146524
+      gameplay_menu_buttons_1_63: -1061629211
+      gameplay_menu_buttons_1_64: -627541104
+      gameplay_menu_buttons_1_65: 1151665384
+      gameplay_menu_buttons_1_66: -82927347
+      gameplay_menu_buttons_1_67: -418646499
+      gameplay_menu_buttons_1_68: 1325660224
+      gameplay_menu_buttons_1_69: -2060686656
+      gameplay_menu_buttons_1_7: -1894039637
+      gameplay_menu_buttons_1_70: -1273608929
+      gameplay_menu_buttons_1_71: 1055519191
+      gameplay_menu_buttons_1_8: -1247114140
+      gameplay_menu_buttons_1_9: -2092474930
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

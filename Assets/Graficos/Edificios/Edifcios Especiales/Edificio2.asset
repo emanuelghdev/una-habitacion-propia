@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Edificio2
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 1413999233, guid: ebd3945c674542a49b4cae8f3db493a3, type: 3}
+  - {fileID: 1672056694, guid: bbd6e5c52ca497c4a8abe4ad13759b4b, type: 3}
+  - {fileID: -1719739592, guid: 99f6d427f2c6acd48aef2aed8be7fabf, type: 3}
+  - {fileID: 904467578, guid: 44b24121777e8964982622585c194f0f, type: 3}
+  - {fileID: 1718326454, guid: 652dc1b100aae0642b2d907e356abb7f, type: 3}
+  - {fileID: -689330591, guid: 11a9d86ad6ec68f478ee02e7f1355c2e, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1
+  m_TileAnimationFlags: 0
