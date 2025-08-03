@@ -48,13 +48,13 @@ EditorBuildSettings:
     path: Assets/Scenes/Resiliencia/ResilienciaEj0.unity
     guid: e758aa1406c247d4f8645e728b346c2f
   - enabled: 1
-    path: Assets/Scenes/Resiliencia/ResilienciaEj1.unity
+    path: Assets/Scenes/Resiliencia/ResilienciaEj2.unity
     guid: c132545152c60454f998b7a0425ecb4b
   - enabled: 1
-    path: Assets/Scenes/Resiliencia/ResilienciaEj2.unity
+    path: Assets/Scenes/Resiliencia/ResilienciaEj3.unity
     guid: 95dffe215f9a3304190297e5a3330225
   - enabled: 1
-    path: Assets/Scenes/Resiliencia/ResilienciaEj3.unity
+    path: Assets/Scenes/Resiliencia/ResilienciaEj1.unity
     guid: 6238cb45194a2714eb423dc6f0855ec3
   - enabled: 1
     path: Assets/Scenes/Otros/MenuTienda.unity

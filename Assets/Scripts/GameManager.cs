@@ -166,7 +166,7 @@ public class GameManager : MonoBehaviour
 	public IEnumerator FadeInMusica(float duracionFade)
 	{
 		float volumenIni = 0.2f;
-		float volumenFin = 0.7f;
+		float volumenFin = 0.55f;
 		float tiempo = 0;
 
 		audioSource.volume = volumenIni;
