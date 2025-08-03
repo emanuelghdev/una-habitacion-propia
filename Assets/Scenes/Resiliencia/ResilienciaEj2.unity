@@ -563,7 +563,7 @@ MonoBehaviour:
   duracionFade: 1
   tipoActividad: Resiliencia
   puntosActividad: 25
-  numeroActividad: 1
+  numeroActividad: 2
 --- !u!4 &60391439
 Transform:
   m_ObjectHideFlags: 0
