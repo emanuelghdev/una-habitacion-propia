@@ -181,7 +181,7 @@ public class GameManager : MonoBehaviour
 			yield return null;
 		}
 
-		// Asegurar que el volumen es exactamente volumenFin
+		// Aseguramos que el volumen es exactamente volumenFin
 		audioSource.volume = volumenFin;
 	}
 

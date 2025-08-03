@@ -26,9 +26,14 @@ public class MenuPausa : MonoBehaviour
 	public GameObject interfazAQuitar2;
 	public GameObject interfazAAñadir;
 
+	[Header("Efectos de sonido")]
+	public AudioClip clickClip;
+	private AudioSource audioSource;
+
 	private void Awake()
 	{
 		gameManager = FindObjectOfType<GameManager>();
+		audioSource = GetComponent<AudioSource>();
 	}
 
 	private void Start()
@@ -71,6 +76,7 @@ public class MenuPausa : MonoBehaviour
 	// Menu Salir
 	public void MenuSalir()
 	{
+		audioSource.PlayOneShot(clickClip);
 		panelSalir.SetActive(true);
 		panelInventario.SetActive(false);
 		panelMapa.SetActive(false);
@@ -93,6 +99,7 @@ public class MenuPausa : MonoBehaviour
 	// Menu Inventario
 	public void MenuInventario()
 	{
+		audioSource.PlayOneShot(clickClip);
 		panelInventario.SetActive(true);
 		panelMapa.SetActive(false);
 		panelConfig.SetActive(false);
@@ -103,6 +110,7 @@ public class MenuPausa : MonoBehaviour
 	// Menu Mapa
 	public void MenuMapa()
 	{
+		audioSource.PlayOneShot(clickClip);
 		panelMapa.SetActive(true);
 		panelConfig.SetActive(false);
 		panelSalir.SetActive(false);
@@ -112,6 +120,7 @@ public class MenuPausa : MonoBehaviour
 	// Menu Configuración
 	public void MenuConfiguración()
 	{
+		audioSource.PlayOneShot(clickClip);
 		panelConfig.SetActive(true);
 		panelSalir.SetActive(false);
 		panelInventario.SetActive(false);
