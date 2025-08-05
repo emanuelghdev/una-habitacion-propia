@@ -1,5 +1,6 @@
 # THIRD-PARTY ATTRIBUTIONS
 
+
 ## 1. Tiles & Characters
 - **Author:** almostApixel
   - Twitter: [https://x.com/almostApixel](https://x.com/almostApixel)
@@ -14,6 +15,7 @@
     <img src="https://img.itch.zone/aW1nLzEwMTA0NTU3LmdpZg==/original/fOXa44.gif" width="80%" alt="SmallBurg - Farm Pack"/>
 </div>
 
+---
 
 ## 2. UI
 - **Author:** almostApixel  
@@ -27,6 +29,7 @@
     <img src="https://img.itch.zone/aW1nLzk5NTk5NTYuZ2lm/189x150%23/yifmPs.gif" width="80%" alt="Smallburg - UI Pack"/>
 </div>
 
+---
 
 ## 3. LeanTween
 - **Author:** Russell Savage (Dented Pixel)
@@ -41,6 +44,7 @@
     <img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/cc670530-92cb-4f04-9970-9d9bc28fad53.jpg" width="80%" alt="LeanTween on Unity Asset Store"/>
 </div>
 
+---
 
 ## 4. Logo Template
 - **Author:** Pirate Parrot
@@ -55,6 +59,7 @@
     <img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/d523d2a6-76af-4c16-9088-8b2e16d75a10.jpg" width="80%" alt="Logo Templates"/>
 </div>
 
+---
 
 ## 5. Sleek Essential UI Pack
 - **Author:** F3jry
@@ -69,6 +74,7 @@
     <img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/ce1e6758-46cd-441b-b103-fa5e6ad12313.jpg" width="80%" alt="Sleek Essential UI Pack"/>
 </div>
 
+---
 
 ## 6. Serenidad Background
 - **Author:** Stext
@@ -83,6 +89,7 @@
     <img src="https://img.itch.zone/aW1hZ2UvMTMxNjc0My83NjU2NzYyLmdpZg==/347x500/8UCBYJ.gif" width="80%" alt="Twilight Beach"/>
 </div>
 
+---
 
 ## 7. Asertividad Background
 - **Author:** Theodmaer
@@ -96,6 +103,7 @@
     <img src="https://i.redd.it/ne94pzf6o1c81.gif" width="80%" alt="Desktop Background"/>
 </div>
 
+---
 
 ## 8. Resiliencia Backgrounds
 - **Author:** Sunpixels
@@ -120,6 +128,7 @@
     <img src="https://images.cara.app/production/posts/f51a82fe-c46e-4735-8098-2c0ddc2eb1ca/sunpixels-I2GFviPAncjDXh8xh56sw-ghinli4.gif" width="80%" alt="Sunset over the Monkey's beach"/>
 </div>
 
+---
 
 ## 9. Bubble Pop
 - **Author:** Robert Brooks
@@ -134,6 +143,7 @@
     <img src="https://gamedveloperstudio-previews.b-cdn.net/Bubblepoppinganimation155j0y9l5n3963602w.png" width="50%" alt="Bubble Popping Animation"/>
 </div>
 
+---
 
 ## 10. Grow Loop
 - **Author:** jan Talisoso (IstsCilveks)
@@ -148,6 +158,7 @@
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/264aee95-44ce-4198-b32d-64e36e216630/dbcc4si-d0deeda1-0f55-4e15-8f3a-f3c5b3912c56.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI2NGFlZTk1LTQ0Y2UtNDE5OC1iMzJkLTY0ZTM2ZTIxNjYzMFwvZGJjYzRzaS1kMGRlZWRhMS0wZjU1LTRlMTUtOGYzYS1mM2M1YjM5MTJjNTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-tKy8Ep8-whEF68kLXITABpNj1IEa8HDMKQ7CigZGxU" width="30%" alt="Grow Loop GIF"/>
 </div>
 
+---
 
 ## 11. Campfire
 - **Author:** ManicPixelDreamGirl
@@ -162,6 +173,7 @@
     <img src="https://img.itch.zone/aW1nLzM2NDUzNTEucG5n/347x500/KGGZ7c.png" width="80%" alt="Animated Campfire"/>
 </div>
 
+---
 
 ## 12. Coin
 - **Author:** Lil Cthulhu
