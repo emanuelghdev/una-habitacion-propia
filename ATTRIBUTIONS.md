@@ -94,8 +94,8 @@
 ## 7. Asertividad Background
 - **Author:** Theodmaer
   - Reddit: [https://www.reddit.com/user/Theodmaer/](https://www.reddit.com/user/Theodmaer/)
-- **License:** CC0 (Creative Commons Zero)
-  - Link: [https://creativecommons.org/public-domain/cc0](https://creativecommons.org/public-domain/cc0/)
+- **License:** CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International)
+  - Link: [https://creativecommons.org/licenses/by-nc-sa/4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - **Source:**
   - [Desktop Background](https://www.reddit.com/r/PixelArt/comments/s5b0yr/my_desktop_background_i_add_a_new_book_to_the/)
 
@@ -109,8 +109,8 @@
 - **Author:** Sunpixels
   - Portfolio: [https://cara.app/sunpixels](https://cara.app/sunpixels)
   - Instagram: [https://www.instagram.com/sunpixels.art](https://www.instagram.com/sunpixels.art/)
-- **License:** CC0 (Creative Commons Zero)
-  - Link: [https://creativecommons.org/public-domain/cc0](https://creativecommons.org/public-domain/cc0/)
+- **License:** CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International)
+  - Link: [https://creativecommons.org/licenses/by-nc-sa/4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - **Source:**
   - [Calm](https://cara.app/post/e1864c3b-ba3a-43a3-a4b2-b1100d29cc8e)
   - [Night at the garden](https://cara.app/post/2a46b1bc-d3c3-49f8-95dc-823f13f2a792)
