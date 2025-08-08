@@ -1,7 +1,7 @@
 # UNA HABITACIÓN PROPIA
 
 <div align="center">
-    <img src="Docs/Img/Titulo_1.gif" width="100%" alt="Animación del inicio del juego"/>
+    <img src="Docs/Img/Titulo_1.png" width="100%" alt="Animación del inicio del juego"/>
 </div>
 
 ## 📜 Sinopsis
@@ -74,7 +74,7 @@ En la Biblioteca de la Asertividad contarás con un **diario al que podrás aña
 
 ## 🌱 Casa de la Resiliencia
 
-En la Casa de la Resiliencia podrás encontrar **actividades terapéuticas** de todo tipo, enfocados a afrontar directamente algunos problemas generados por la ansiedad y el estrés. Algunos de los ejercicios que podrás encontrar aquí serán cuestionamientos socráticos, lecturas divulgativas sobre la salud mental o aprendizaje emocional ante los conflictos.
+En la Casa de la Resiliencia podrás encontrar **actividades terapéuticas** de todo tipo, enfocadas a afrontar directamente algunos problemas generados por la ansiedad y el estrés. Algunos de los ejercicios que podrás encontrar aquí serán cuestionamientos socráticos, lecturas divulgativas sobre la salud mental o aprendizaje emocional ante los conflictos.
 
 <div align="center">
     <img src="Docs/Img/Resiliencia_1.png" width="49%" alt="Imagen del cartel de la casa de la resiliencia"/>
@@ -116,7 +116,7 @@ Cada NPC cuenta con **diálogos únicos y con respuestas personalizadas** del ju
 
 ## 🚀 ¿Cómo jugar?
 
-1. Descarga la última versión cómodamente desde la [página de itch.io](https://emanuelgh.itch.io/).
+1. Descarga la última versión cómodamente desde la [página de itch.io](https://emanuelgh.itch.io/una-habitacion-propia).
 
 2. Extrae el archivo `.zip` donde quieras.
 
